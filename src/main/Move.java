@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import models.Board;
 import models.Token;
-
+// Partie Ayoub
 public class Move {
 
     int x1, y1, x2, y2;
