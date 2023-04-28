@@ -1,10 +1,5 @@
 
-## How to work
-  1. You need to put a coordinate like: [Charater][Number]
-ex: A1 or E3.
-
-
-Ce projet est un jeu de dames en Java. Il est conçu pour être joué sur la console, avec une interface utilisateur simple et facile à comprendre. Les joueurs peuvent jouer en solo contre l'ordinateur ou contre un autre joueur sur le même ordinateur.
+## Ce projet est un jeu de dames en Java. Il est conçu pour être joué sur la console, avec une interface utilisateur simple et facile à comprendre. Les joueurs peuvent jouer en solo contre l'ordinateur ou contre un autre joueur sur le même ordinateur.
 
 Installation :
 1. Assurez-vous que Java est installé sur votre système.
